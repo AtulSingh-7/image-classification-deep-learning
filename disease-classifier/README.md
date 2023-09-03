@@ -46,7 +46,7 @@ python ADN_rps.py
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Authors
+## Author
 - Atul Singh: [atulnara5@gmail.com](mailto:atulnara5@gmail.com)
-- Sudhir Pilaniya: [pilaniyasudhir@gmail.com](mailto:pilaniyasudhir@gmail.com)
+
 
